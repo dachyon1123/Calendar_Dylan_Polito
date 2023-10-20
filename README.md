@@ -21,4 +21,4 @@ The application uses colors to indicate whether a time slot is in the past, the 
 
 ## Visuals
 
-![My image](Assets\images\image.PNG)
+![My image](./Assets/images/image.PNG)
